@@ -1,1 +1,1 @@
-# gts.releses
+# Game Testing Suite
